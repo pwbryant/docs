@@ -13,3 +13,4 @@
 * Set repo to 'Trusted' in settings
 * Add docker_password and docker_username secrets
 * create .drone.yml file
+* Make sure any private keys that the ci-cd intance needs arep copied over
